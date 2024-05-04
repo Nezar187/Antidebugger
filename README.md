@@ -1,5 +1,5 @@
 ## Description
-`AntiDebuggers.cs` is a C# class designed to detect and respond to debugging attempts on an application. It forms part of the iAldazAllinOne namespace and appears to be tailored for applications requiring a high level of security against reverse engineering and tampering. 
+`AntiDebuggers.cs` is a C# class designed to detect and respond to debugging attempts on an application. It forms part of the iAldazAllinOne namespace and is made for applications requiring a high level of security against reverse engineering and tampering. this is a very simple file extracted from another project and perhaps something that you can start to use or implement into your project
 
 ## Usage
 To use this module, include `AntiDebuggers.cs` in your C# project and instantiate the `AntiDebuggers` class. Ensure that all necessary namespaces are imported into your project.
